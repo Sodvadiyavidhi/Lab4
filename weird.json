@@ -1,0 +1,35 @@
+{
+  "weirdthings": [
+    {
+      "name": "Dill Pickle Lip Balm",
+      "price" : 11.95,
+      "color" : "green", 
+      "image": "dill-pickle-lip-balm.jpg"
+    },
+    {
+      "name": "A Baby Mop",
+      "price" : 29.99,
+      "color": "Blue and Yellow", 
+      "image": "baby-mop.jpg"
+    },
+    {
+      "name": "A horror movie sound maker",
+       "price" : 299.00,
+      "color": "silver",
+      "image": "horror-sound.jpg"
+    }
+      {
+      "name": "Baby hands candles",
+       "price" : 15.00,
+      "color": "Yellow",
+      "image": "baby-candle.jpg"
+    }
+      {
+      "name": "Cocktail blood bags",
+       "price" : 9.99,
+      "color": "Red",
+      "image": "cocktail-blood-bags.jpg"
+    }
+      
+  ]
+}
